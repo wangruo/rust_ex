@@ -1,0 +1,3 @@
+[workspace]
+resolver = "2"
+members = ["beer_song", "difference-of-squares", "http", "httpserver", "tcpclient", "tcpserver", "test_lib"]
