@@ -1,3 +1,4 @@
+#[allow(dead_code)]
 pub fn verse(n: u32) -> String {
     match n {
         0 => "No more bottles of beer on the wall, no more bottles of beer.\nGo to the store and buy some more, 99 bottles of beer on the wall.\n".to_string(),
@@ -7,6 +8,7 @@ pub fn verse(n: u32) -> String {
     }
 }
 
+#[allow(dead_code)]
 pub fn sing(start: u32, end: u32) -> String {
     let mut s = String::new();
 

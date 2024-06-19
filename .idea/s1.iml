@@ -10,6 +10,8 @@
       <sourceFolder url="file://$MODULE_DIR$/beer_song/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/test_lib/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/difference-of-squares/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercise/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/run_bin/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
